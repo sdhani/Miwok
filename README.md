@@ -18,7 +18,9 @@
 	
 	**USB Connection required**
 	
-	*Note: Developer options on your device should be toggled on. Unabling Transfer files on your device for the USB Connection might be required to run the application for older devices.* 
+	*Note: Developer options on your device should be toggled on. 
+	Unabling Transfer files on your device for the USB Connection might be required
+	to run the application for older devices.* 
 
 
 	

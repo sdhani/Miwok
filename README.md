@@ -1,6 +1,6 @@
 ## Miwok Android Application
    An Android application that preserves the Native American Miwok language through translation. 
-The app reflects the Miwok app from Udacity and uses Android Studio, Android XML, and Java to demonstrate 
+*The app reflects the Miwok app from Udacity* and uses Android Studio, Android XML, and Java to demonstrate 
 the usage of intents, object-oriented design, AudioManager and RecyclerView.
 
 ### To Run:

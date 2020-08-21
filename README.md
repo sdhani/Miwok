@@ -1,36 +1,24 @@
 ## Miwok Android Application
-:pencil::sparkles: An Android application that preserves the Native American Miwok language through translation :page_facing_up:. 
-*The app reflects the Miwok app from Udacity* and uses Android Studio, Android XML, and Java to demonstrate 
-the usage of intents, object-oriented design, AudioManager and RecyclerView.
+:pencil::sparkles: An Android application that preserves the Native American Miwok language through translation :page_facing_up:. This project uses native Android Studio, Android XML, and Java to demonstrate the usage of intents, object-oriented design, AudioManager and RecyclerView.
 
 ## Install:
 
 1. Clone repo.
-	- HTTPS: `https://github.com/sdhani/Miwok.git`
-	- SSH: `git clone git@github.com:sdhani/Miwok.git`
-	
-### To Run:
-*Created in guidance with the Udacity Android App Development Course*
+1. Open Project in Android Studio.
+1. Build Project (Hammer icon on toolbar)
+1. Run Project (Play Button icon on toolbar) using the Android Emulator or an Android device.
 
-	To open with Android Studio Code:
+#### Using an Emulator: 
+Select an emulator that supports the `Android Verion 6.0 Marshmallow`.
+*Note: Emulator might take some time to load.*
 
-	1. Open Project in Android Studio.
-	2. Build Project (Hammer icon on toolbar)
-	3. Run Project (Play Button icon on toolbar)
-
-	Through Emulator: 
-	Select an emulator that supports the `Android Verion 6.0 Marshmallow`.
-	*Note: Emulator might take some time to load.*
-
-	Through Android Device: 
-	Run on an Android device running Version 6.0 Marshmallow. 
+#### Using an Android Device: 
+Note only `Android Version 6.0 Marshmallow` is supported.
 
 ---
 
 ## Notes: 
-***USB Connection required** Developer options on your device should be toggled on. 
-Enabling Transfer files on your device for the USB Connection might be required
-to run the application for older devices.* 
+> *The app reflects the Miwok app from Udacity and was created in guidance with the Udacity Android App Development Course*
 
 
 	
